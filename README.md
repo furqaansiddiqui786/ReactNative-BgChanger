@@ -1,3 +1,4 @@
 # ReactNative-BgChanger
 Changes the background with random colors on press of a button
-app screen :- Screenshot_20190426-001410.jpg
+# Preview 
+![](Screenshot_20190426-001410.jpg)
